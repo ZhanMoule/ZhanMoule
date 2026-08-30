@@ -1,9 +1,3 @@
-<!--
-  GitHub Profile README draft for @ZhanMoule.
-  To publish it, create a PUBLIC repository named exactly "ZhanMoule"
-  and replace that repository's root README.md with this file.
--->
-
 <h1 align="center">Hi, I'm Xile 👋</h1>
 
 <p align="center">
@@ -63,12 +57,6 @@ I am currently building foundations in:
 
 - 🐍 [Python-University](https://github.com/ZhanMoule/Python-University) — Python and C++ learning exercises.
 - 🤖 [26_Hero](https://github.com/ZhanMoule/26_Hero) — a collaborative RoboMaster embedded project from an earlier stage of my learning.
-
-<!--
-  When the two roadmap projects are created, add them above and move any
-  completed project here. Only list projects for which you can clearly explain
-  your own contribution.
--->
 
 ## 📫 Connect
 
